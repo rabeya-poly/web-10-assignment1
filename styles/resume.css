@@ -64,3 +64,21 @@ border-radius: 8px;
 top: 32px;
 font-size: 15px;
 }
+
+/*development-container-style*/
+
+.development-container-l{
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+    padding:  48px 48px;
+
+}
+.development-con-r{
+    text-align: center;
+    
+}
+.development-container{
+    margin: 80px 97px;
+    top: 32px;
+}
