@@ -108,19 +108,22 @@ height: 50%;
 text-align: center;
 }
 .current-tg-tent{
-    display: flex;
+    
     align-items: center;
-    margin: 0 auto;
-    display: flex;
-justify-content: space-around;
+margin: 8px 8px;
+    
+justify-content: flex-start;
 
-padding: 40px; 
+padding: 20px 20px; 
+display: flex;
 
 
 }
 .tml{ 
 text-align: center;
 background-color:#e6d9da ;
+
+
 }
 .ss{
 text-align: center;
@@ -129,10 +132,12 @@ background-color: rgb(173, 227, 173);
 .jt{
 text-align: center;
 background-color: rgb(173, 195, 129);
+
 }
 .current-target-container{
 padding-top: 40px;
-margin: ;
+margin: 0 auto;
+border: 3px red;
 }
 /*support style*/
 .support{
@@ -140,8 +145,8 @@ margin: ;
     background-size: cover;
     background-repeat: no-repeat;
     
-    width: 1340px;
-    height:330px;
+    width: 1400px;
+    
     margin: 0 auto;
 
 }
