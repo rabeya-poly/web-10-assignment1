@@ -134,3 +134,10 @@ background-color: rgb(173, 195, 129);
 padding-top: 40px;
 margin: ;
 }
+/*footer style*/
+.footer-contain{
+    background-image: url("../assets/handshake.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
