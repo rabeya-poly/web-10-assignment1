@@ -90,11 +90,7 @@ font-size: 20px;
 }
 /*ispriration-style*/
 .ispriration-container{
-padding: 20px 150px;
-margin: o auto;
-justify-content: center;
-text-align: center;
-
+align-items: center;
 }
 .isp-vedio {
 top: 400px;
@@ -147,8 +143,8 @@ border: 3px red;
     width: 1400px;
     margin: 0 auto;
     height: 328px;
-    justify-items: center;
-    justify-content: center;
+    
+    text-align: center;
     }
     .sup-t{ 
         font-size: 32px;
