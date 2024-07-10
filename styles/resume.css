@@ -143,15 +143,15 @@ border: 3px red;
     width: 1400px;
     margin: 0 auto;
     height: 328px;
-    
+    padding: 200px 0px 0px 0px;
     text-align: center;
     }
     .sup-t{ 
         font-size: 32px;
         
         align-items: center;
-        box-shadow: #e6d9da;
-        background-color: white;
+        border: 2px;
+        
     }
 
 /*foot*/
