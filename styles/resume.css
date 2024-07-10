@@ -111,11 +111,10 @@ text-align: center;
     
     align-items: center;
 margin: 8px 8px;
-    
-justify-content: flex-start;
-
-padding: 20px 20px; 
+padding-left:10%;
+justify-content: flex;
 display: flex;
+
 
 
 }
@@ -146,7 +145,16 @@ border: 3px red;
     background-repeat: no-repeat;
     
     width: 1400px;
-    
     margin: 0 auto;
+    height: 328px;
+    justify-items: center;
+    justify-content: center;
+    }
+    .sup-t{ 
+        font-size: 32px;
+        color: #f8f3f3;
+        align-items: center;
+        top: 64px;
+        
+    }
 
-}
