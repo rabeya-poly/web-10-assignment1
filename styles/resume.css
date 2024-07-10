@@ -103,3 +103,15 @@ width: 100%;
 height: 50%;
 
 }
+/*current-target*/
+.current-target-heading{
+text-align: center;
+}
+.current-tg-tent{
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    display: flex;
+justify-content: space-around;
+border: red;
+}
