@@ -71,7 +71,11 @@ font-size: 15px;
     display: flex;
     justify-content: space-between;
     text-align: left;
-    padding:  48px 48px;
+    padding:  48px 100px;
+    font-weight: 500;
+    gap: 20px;
+    
+    
 
 }
 .development-con-r{
@@ -81,4 +85,19 @@ font-size: 15px;
 .development-container{
     margin: 80px 97px;
     top: 32px;
+}
+/*ispriration-style*/
+.ispriration-container{
+padding: 20px 150px;
+margin: o auto;
+justify-content: center;
+text-align: center;
+
+}
+.isp-vedio {
+top: 400px;
+margin: 0px;
+width: 100%;
+height: 50%;
+
 }
