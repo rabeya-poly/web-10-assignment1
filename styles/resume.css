@@ -113,5 +113,24 @@ text-align: center;
     margin: 0 auto;
     display: flex;
 justify-content: space-around;
-border: red;
+
+padding: 40px; 
+
+
+}
+.tml{ 
+text-align: center;
+background-color:#e6d9da ;
+}
+.ss{
+text-align: center;
+background-color: rgb(173, 227, 173);
+}
+.jt{
+text-align: center;
+background-color: rgb(173, 195, 129);
+}
+.current-target-container{
+padding-top: 40px;
+margin: ;
 }
