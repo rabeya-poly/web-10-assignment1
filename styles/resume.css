@@ -148,9 +148,17 @@ border: 3px red;
     }
     .sup-t{ 
         font-size: 32px;
-        color: #f8f3f3;
-        align-items: center;
-        top: 64px;
         
+        align-items: center;
+        box-shadow: #e6d9da;
+        background-color: white;
     }
 
+/*foot*/
+.foot{
+    display: flex;
+    justify-content: space-between;
+}
+.foot-hub{
+    shape-image-threshold: calc(2,6);
+}
